@@ -2,6 +2,7 @@
 	max-width: 1120px;
 	margin: 0 auto;
 	padding: 0 20px;
+
 }
 body{
     background-image: url(http://rulib.info/uploads/11_05_2013/view/201210/oboik.ru_55687.jpg);
@@ -106,7 +107,7 @@ header {
 				border: 1px dotted;
 				height: 350px;
 				border-radius: 5px;
-				background-image: url(http://rulib.info/uploads/11_05_2013/view/201210/oboik.ru_55687.jpg);
+				background-image: url(https://img5.goodfon.ru/wallpaper/nbig/9/b0/lisa-morda-zhivotnoe-art.jpg);
 				
 				&:nth-child(1) {
 					grid-area: one;
@@ -175,7 +176,7 @@ header {
 					}
                 }
                 p{
-                    padding: 7px;
+                    padding: 10px;
                 }
 			}
 			img {
@@ -183,7 +184,7 @@ header {
                 width: 100%;
                 padding-left: 5px;
                 border-radius: 5%;
-             
+			
 			}
 		}
 	
